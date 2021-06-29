@@ -22,7 +22,7 @@ BuildRequires:  %{py3_dist setuptools}
 Summary:        %{summary}
 %{?python_provide:%python_provide python3-%{srcname}}
 
-%description -n python%{python3_pkgversion}-%{srcname}
+%description -n python3-%{srcname}
 %{_description}
 
 

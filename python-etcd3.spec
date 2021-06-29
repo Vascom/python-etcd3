@@ -46,7 +46,7 @@ Summary:        %{summary}
 
 
 %changelog
-* Mon Jun 28 2021 Vasiliy Glazov <vascom2@gmail.com> - 0.12.0-2
+* Tue Jun 29 2021 Vasiliy Glazov <vascom2@gmail.com> - 0.12.0-2
 - Fix python macro
 
 * Mon Jun 28 2021 Vasiliy Glazov <vascom2@gmail.com> - 0.12.0-1

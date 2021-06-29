@@ -38,7 +38,7 @@ Summary:        %{summary}
 %py3_install
 
 
-%files -n  python%{python3_pkgversion}-%{srcname}
+%files -n python3-%{srcname}
 %license LICENSE
 %doc AUTHORS.rst CONTRIBUTING.rst HISTORY.rst README.rst
 %{python3_sitelib}/%{srcname}/
